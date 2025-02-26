@@ -85,4 +85,7 @@ DRF test task for the position of Junior Django Developer.
 ```bash
 pip install -r requirements.txt
 ```
-Использованная версия Python: 3.13.2
+Использованная версия Python: 3.13.2  
+
+Демо:
+![Работа API](demo.png "API")
